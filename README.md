@@ -63,6 +63,26 @@
 
 <br>
 
+## 👩‍👩‍👦‍👦 팀원
+<table>
+  <th>김준엽(팀장)</th>
+  <th>유현지(FE)</th>
+  <th>김한슬(BE)</th>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/53340295?v=4" width="180" height="180"/></td>
+    <td><img src="https://avatars.githubusercontent.com/u/88645538?v=4" width="180" height="180"/></td>
+    <td><img src="https://avatars.githubusercontent.com/u/67732600?v=4" width="180" height="180"/></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/JunYupK">김준엽</a>
+    </td>
+    <td align="center"><a href="https://github.com/YooHyunJi">유현지</a>
+    </td>
+    <td align="center"><a href="https://github.com/slcloe">김한슬</a>
+    </td>
+  </tr>
+</table>
+
 ## :books: 기술 스택
 ### FrontEnd
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
@@ -80,6 +100,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
 
 <br>
+
 
 ## :gear: 실행 환경 설정
 ### FrontEnd
